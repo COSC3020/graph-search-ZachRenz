@@ -27,6 +27,8 @@ the function and run automatically when you commit through a GitHub action.
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
 
+The worst case complexity for my algorithm is $\Theta(E+V)$ because my algorithm will run through every edge for every vertex in the graph.
+
 ## Bonus
 
 Implement and analyze breadth-first search.
